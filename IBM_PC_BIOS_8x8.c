@@ -16,7 +16,7 @@ https://int10h.org/oldschool-pc-fonts/fontlist/font?ibm_bios
 SSD1306_CTiles font = {
 	.w = 8,
 	.h_pages = 1,
-	.len = 256,
+	.len = 128,
 	.data = {
 		// ASCII 0x00, NUL
 		0b00000000,
