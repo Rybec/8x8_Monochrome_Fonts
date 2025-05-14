@@ -13,7 +13,7 @@ https://int10h.org/oldschool-pc-fonts/fontlist/font?ibm_bios
 
 
 // IBM PC BIOS 8x8 font
-SSD1306_CTiles font = {
+SSD1306_CTiles ibm_pc_bios_font = {
 	.w = 8,
 	.h_pages = 1,
 	.len = 128,
