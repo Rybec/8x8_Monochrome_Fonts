@@ -2,7 +2,7 @@
 This is based on the default font in Megazeux,
 an old DOS game that simulated graphics by
 modifying the DOS character set.  The original
-game used an 8x16 character set, which has been
+game used an 8x14 character set, which has been
 adapted to an 8x8 font by Ben Williams.
 
 Most typeable keyboard symbols (letters, numbers,
