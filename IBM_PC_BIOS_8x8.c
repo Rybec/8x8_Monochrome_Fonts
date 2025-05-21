@@ -948,7 +948,7 @@ SSD1306_CTiles ibm_pc_bios_font = {
 		0b00000000,
 		0b00000000,
 
-		// ASCII 0x5C, \
+		// ASCII 0x5C, "\"
 		0b00000001,
 		0b00000011,
 		0b00000110,
