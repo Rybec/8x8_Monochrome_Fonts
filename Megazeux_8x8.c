@@ -16,10 +16,9 @@ license and ported to many platforms.  It can be found
 here:
 https://www.digitalmzx.com/
 
-At the time of writing, the full Megazeux 8x16 font
-can be found here, in the form of a screenshot of
-part of the game:
-https://eev.ee/media/2016-10-06-megazeux/mzx-font.png
+The full Megazeux 8x16 font can be found in the assets
+directory of this Github repository, in the form of a
+screenshot of part of the game.
 
 The full IBM PS BIOS 8x8 font (and a Unicode extension
 for it) can be found here:
