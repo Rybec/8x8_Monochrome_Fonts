@@ -16,7 +16,7 @@ license and ported to many platforms.  It can be found
 here:
 https://www.digitalmzx.com/
 
-The full Megazeux 8x16 font can be found in the assets
+The full Megazeux 8x14 font can be found in the assets
 directory of this Github repository, in the form of a
 screenshot of part of the game.
 
